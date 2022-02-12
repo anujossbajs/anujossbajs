@@ -29,7 +29,7 @@
         - Apache
     - Code Quality Management:
         - Sonarqube
-    - Continuous Integeration/Continuous Deployment:
+    - Continuous Integration/Continuous Deployment:
         - Jenkins
     - Containerization:
         - Docker

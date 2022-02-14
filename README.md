@@ -10,7 +10,7 @@
 
 ##  CERTIFICATIONS:
 
-#### [Oracle Cloud Infrastructure Foundations 2021 Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=15F4EE3A535CA43C1B05AEC886ABBA190640AC8AF7D87035175F4877553D2C8F)
+#### [Oracle Cloud Infrastructure Foundations 2021 Associate [1Z0-1085-21]](https://catalog-education.oracle.com/pls/certview/sharebadge?id=15F4EE3A535CA43C1B05AEC886ABBA190640AC8AF7D87035175F4877553D2C8F)
  
 ##  SKILLS:
 

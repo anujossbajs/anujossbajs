@@ -15,7 +15,7 @@
 ##  SKILLS:
 
     - Cloud Platform:
-          AWS
+        - AWS
         - Oracle
     - Operating Systems:
         - RedHat Linux Release
@@ -40,7 +40,7 @@
         - Docker
           Podman
     - Container Orchestration
-          Docker swarm
+        - Docker swarm
         - kubernetes
     - Project Management Tool:
         - Jira

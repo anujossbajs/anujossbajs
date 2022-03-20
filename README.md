@@ -52,7 +52,8 @@
 </p>
 
 
-####  How to reach me:
+###  How to Reach Me:
+
 <p align="left">
 <a href = "https://in.linkedin.com/in/anu-jose-40726510a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="mailto:anu.jose.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

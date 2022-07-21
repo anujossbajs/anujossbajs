@@ -1,6 +1,6 @@
 ## Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
- Hi, My name is Anu, a DevOps & Cloud Enthusiast from India. Currently i'm working as a Senior Software Engineer at Capgemini . I am passionate about Devops activities and understanding the core concepts behind popular tools and technologies. I love to explore and learn new things. Ask me about anything, I am happy to help.</br>
+ Hi, My name is Anu, a DevOps & Cloud Enthusiast from India. Currently I'm working as a Senior Software Engineer at Capgemini . I am passionate about Devops activities and understanding the core concepts behind popular tools and technologies. I love to explore and learn new things. Ask me about anything, I am happy to help.</br>
  
  <hr>
 
